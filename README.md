@@ -26,6 +26,6 @@ output_folder = r'path\to\output'
 watermark_image_path = r'path\to\watermark.png'
 area_percent = 5  # Watermark area as a percentage of the image area
 transparency = 182  # Watermark transparency (0 to 255)
+```
 
-## Usage
-Made with Chatgpt1o-preview
+## Made with Chatgpt1o-preview
